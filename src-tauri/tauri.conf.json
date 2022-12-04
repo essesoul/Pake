@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "dtcommunity",
     "version": "1.0.0"
   },
   "tauri": {
@@ -19,12 +19,11 @@
     },
     "bundle": {
       "icon": [
-        "icons/weread.icns",
-        "png/weread_256.ico",
-        "png/weread_32.ico",
-        "png/weread_512.png"
+        "icons/dtcommunity.icns",
+        "png/dtcommunity_32.ico",
+        "png/dtcommunity_512.png"
       ],
-      "identifier": "com.tw93.weread",
+      "identifier": "com.dtnetwork.weread",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
@@ -52,7 +51,7 @@
         "providerShortName": null,
         "signingIdentity": null
       },
-      "resources": ["png/weread_32.ico"],
+      "resources": ["png/dtcommunity_32.ico"],
       "shortDescription": "",
       "targets": ["deb", "msi", "dmg"],
       "windows": {
