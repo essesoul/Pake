@@ -233,13 +233,6 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/essesoul">
-            <img src="https://avatars.githubusercontent.com/u/58624474?v=4" width="90;" alt="essesoul"/>
-            <br />
-            <sub><b>Essesoul</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/2nthony">
             <img src="https://avatars.githubusercontent.com/u/19513289?v=4" width="90;" alt="2nthony"/>
             <br />
@@ -251,6 +244,13 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
             <img src="https://avatars.githubusercontent.com/u/7900765?v=4" width="90;" alt="AielloChan"/>
             <br />
             <sub><b>Aiello</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/essesoul">
+            <img src="https://avatars.githubusercontent.com/u/58624474?v=4" width="90;" alt="essesoul"/>
+            <br />
+            <sub><b>Essesoul</b></sub>
         </a>
     </td>
     <td align="center">
