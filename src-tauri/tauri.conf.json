@@ -6,7 +6,7 @@
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://www.dtcommunity.top/",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
@@ -59,7 +59,7 @@
         "digestAlgorithm": "sha256",
         "timestampUrl": "",
         "wix": {
-          "language": ["en-US"]
+          "language": ["zh-CN"]
         }
       }
     },
