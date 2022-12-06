@@ -92,8 +92,9 @@
         <td><img src=https://cdn.fliggy.com/upic/02SZQl.png width=600/></td>
     </tr>
 </table>
+Note: it cannot be installed to  C:\Program File  under Windows, and it will crash directly. It is recommended to install to other non-administrator directories, such as  D:\Program Files (x86) .
 
-Note: it cannot be installed to C:\Program File under Windows, and it will crash directly. It is recommended to install to other non-administrator directories, such as D:\Program Files (x86).
+Also for light users, a good option is to use **GitHub Actions online compilation**, see the [tutorial](/docs/README_EN.md).
 
 ## Command line packing
 
@@ -134,7 +135,7 @@ In addition, it supports double clicking the head to switch to full screen, and 
 
 ## Development
 
-Refer to the [Tauri documentation](https://tauri.app/v1/guides/getting-started/prerequisites#setting-up-macos) to quickly configure your environment before you start.
+Refer to the [Tauri documentation](https://tauri.app/v1/guides/getting-started/prerequisites) to quickly configure your environment before you start.
 
 ```sh
 // Install Dependencies
